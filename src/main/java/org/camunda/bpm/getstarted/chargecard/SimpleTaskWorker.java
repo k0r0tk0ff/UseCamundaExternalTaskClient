@@ -10,7 +10,7 @@ import java.util.logging.Logger;
  *  Подключение к очереди выполняется с помощью ExternalTaskClient,
  *  с использованием REST URL
  *
- *  BPMN диаграмма находиться
+ *  необходимый bpmn файл лежит здесь - [root_project]/bpmn/simple-task.bpmn
  */
 
 public class SimpleTaskWorker {
